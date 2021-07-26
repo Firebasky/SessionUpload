@@ -13,6 +13,7 @@ Using the burpsuite plug-in
 ![image-20210726120810272](img/2.png)
 
 **With this plug-in, you don't need to use HTML to capture and modify!!!**
+**Maybe the plug-in is only for lazy people like me!!!**
 
 ```php+HTML
 <!DOCTYPE html>
